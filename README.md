@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <code><a href="https://webpack.js.org" target="_blank"><img src="https://raw.githubusercontent.com/Tetiana1386/readme-icon/main/webpack/webpack.svg" alt="webpack" height='45px' /></a></code>
 <code><a href="https://parceljs.org/" target="_blank"><img src="https://raw.githubusercontent.com/Tetiana1386/readme-icon/main/Parcel-icon.png" alt="parcel" height='47px' /></a></code>
 <code><a href="https://expressjs.com/ru/" target="_blank"><img src="https://raw.githubusercontent.com/Tetiana1386/readme-icon/main/expressjs-icon.svg" alt="expressjs" height='36px' /></a></code>
-<code><a href="https://www.mongodb.com/cloud/atlas/lp/try2?utm_content=controlhterms&utm_source=google&utm_campaign=gs_emea_ukraine_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624575&gclid=Cj0KCQjwqKuKBhCxARIsACf4XuEIF1MtSOkEwARZ2xchauVdjUqWfUiy1ER1FlULu-jkhPdRXoK_JYEaArI4EALw_wcB" target="_blank"><img src="https://raw.githubusercontent.com/ArmatuRio/readme-icon/main/mongodb-icon.svg" alt="mongodb" height='45px' /></a></code>
+<code><a href="https://www.mongodb.com/cloud/atlas/lp/try2?utm_content=controlhterms&utm_source=google&utm_campaign=gs_emea_ukraine_search_core_brand_atlas_desktop&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624575&gclid=Cj0KCQjwqKuKBhCxARIsACf4XuEIF1MtSOkEwARZ2xchauVdjUqWfUiy1ER1FlULu-jkhPdRXoK_JYEaArI4EALw_wcB" target="_blank"><img src="https://raw.githubusercontent.com/Tetiana1386/readme-icon/main/mongodb-icon.svg" alt="mongodb" height='45px' /></a></code>
 <code><a href="https://www.postman.com/" target="_blank"><img src="https://raw.githubusercontent.com/Tetiana1386/readme-icon/main/postman-icon.svg" alt="postman" height='44px' /></a></code>
 <code><a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/Tetiana1386/readme-icon/main/visual-studio-team-services.svg" alt="vsc" height='42px' /></a></code>
 <code><a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/Tetiana1386/readme-icon/main/figma/figma.svg" alt="Figma" height='45px' /></a></code>
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <code><a href="https://fontawesome.com/" target="_blank"><img src="https://raw.githubusercontent.com/Tetiana1386/readme-icon/main/font-awesome-icon.svg" alt="Awesome" height='43px' /></a></code>
 <code><a href="https://www.netlify.com/" target="_blank"><img src="https://raw.githubusercontent.com/Tetiana1386/readme-icon/main/netlify-icon.svg" alt="Netlify" height='43px' /></a></code>
 <code><a href="https://handlebarsjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/Tetiana1386/readme-icon/main/handlebars.svg" alt="Handlebars" height='33px' /></a></code>
-<code><img src="https://raw.githubusercontent.com/ArmatuRio/readme-icon/main/Agile-Scrum-logo-600x300-1.png" alt="Agile" height='45px' /></code>
+<code><img src="https://raw.githubusercontent.com/Tetiana1386/readme-icon/main/Agile-Scrum-logo-600x300-1.png" alt="Agile" height='45px' /></code>
 
 <h2>GitHub Analytics</h2>
 <a href="https://github.com/ArmatuRio/ArmatuRio">
