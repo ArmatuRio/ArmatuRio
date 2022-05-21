@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h2> Connect with Me </h2>
 
-<a href="mailto:arturevseevartur@gmail.com" target="_blank"><img src="https://img.shields.io/badge/arturevseevartur@gmail.com-D14836?&logo=gmail&logoColor=white" /></a> <a href="https://t.me/Ártur" target="_blank"><img src="https://img.shields.io/badge/@Ártur-2CA5E0?&logo=telegram&logoColor=white" /></a> <a href="https://www.linkedin.com/in/arturevseev/" target="_blank"><img src="https://img.shields.io/badge/linkedin/arturevseev-0077B5?&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:arturevseevartur@gmail.com" target="_blank"><img src="https://img.shields.io/badge/arturevseevartur@gmail.com-D14836?&logo=gmail&logoColor=white" /></a> <a href="https://t.me/ArturEvseev" target="_blank"><img src="https://img.shields.io/badge/@Ártur-2CA5E0?&logo=telegram&logoColor=white" /></a> <a href="https://www.linkedin.com/in/arturevseev/" target="_blank"><img src="https://img.shields.io/badge/linkedin/arturevseev-0077B5?&logo=linkedin&logoColor=white" /></a>
 
 <h2> My Skills</h2>
 
